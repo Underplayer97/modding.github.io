@@ -1,3 +1,20 @@
 body{
- background: orange
+ background: orange;
+ 
+}
+
+A{
+    padding-left: 20px;;
+}
+
+B{
+    padding-left: 50px;
+}
+
+C{
+    padding-left: 100px;
+}
+
+D{
+    padding-left: 150px;
 }
